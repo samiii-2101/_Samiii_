@@ -22,7 +22,7 @@ Hey!!! It's me Samarth Hondule...
 • Grow as software developer...🏴‍☠️
 
 
-<head>_Connet with me to learn_<head>
+# _Connet with me to learn_
 
 
 Thank you for visiting my first project...🙏🙏
