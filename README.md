@@ -21,6 +21,12 @@ Hey!!! It's me Samarth Hondule...
 <br>
 • Grow as software developer...🏴‍☠️
 
+# Advancement 
+
+• Analyzed: Git & Github Basic
+
+• Pick up: HTML 
+
 
                _Connet with me to learn_
 
