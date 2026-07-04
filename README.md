@@ -18,3 +18,5 @@ Hey!!! It's me Samarth Hondule...
 •To enhance the skills..🤹‍♂️
 <br>
 • To develop websites & apps..🌐
+<br>
+• Grow as software developer...🏴‍☠️
