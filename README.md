@@ -1,3 +1,4 @@
 # Samiii
-Hey!!! It's me Samarth Hondule 
-# Studying FYBSC (Computer Science) 🚀
+Hey!!! It's me Samarth Hondule...
+<br>
+Studying FYBSC (Computer Science) 🚀
