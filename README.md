@@ -14,3 +14,7 @@ Hey!!! It's me Samarth Hondule...
 • C++
 
 # Goals
+
+•To enhance the skills..🤹‍♂️
+<br>
+• To develop websites & apps..🌐
