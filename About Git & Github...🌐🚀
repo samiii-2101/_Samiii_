@@ -1,3 +1,15 @@
 # Git...
+
+  <pr>Git is a free, open-source software tool that tracks changes in your files. It acts like a powerful "undo" history for your code, helping you collaborate seamlessly with other developers.<pr>
+
+# Core Concepts:-
+
+ <pr> To understand Git, picture your project progressing along a timeline.The Standard Git WorkflowMost developers use Git by following these four basic steps:<pr>
+
+__Modify__: Edit, delete, or create files in your project folder.
 <br>
-  Git is a free, open-source software tool that tracks changes in your files. It acts like a powerful "undo" history for your code, helping you collaborate seamlessly with other developers.Core ConceptsTo understand Git, picture your project progressing along a timeline.The Standard Git WorkflowMost developers use Git by following these four basic steps:Modify: Edit, delete, or create files in your project folder.Stage: Run git add <filename> to move files into the staging area.Commit: Run git commit -m "Your message" to permanently save that snapshot.Push: Run git push to upload your local commits to a remote server like GitHub.
+__Stage__: Run git add <filename> to move files into the staging area.
+<br>
+__Commit__: Run git commit -m "Your message" to permanently save that snapshot.
+<br>
+__Push__: Run git push to upload your local commits to a remote server like GitHub.
